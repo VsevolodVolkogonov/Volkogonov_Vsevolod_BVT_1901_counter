@@ -12,3 +12,6 @@
 ## Билд проекта
 
 1. Запустить команду `npm run build` в корне проекта
+
+## Ссылка на проект с пиццей
+https://github.com/VsevolodVolkogonov/Pizza_UX_UI
